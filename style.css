@@ -1,0 +1,42 @@
+body {
+    font-family: "Arial", sans-serif;
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+    color: inherit;
+}
+
+#container {
+    max-width: 1024px;
+    margin: auto;
+}
+
+figcaption {
+    width: 200px;
+    font: italic smaller sans-serif;
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+#flex-container {
+    display: flex;
+    flex-flow: row-reverse wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+main {
+    padding: 0 10px;
+    text-align: justify;
+}
+
+.caption {
+    font-weight: bolder;
+}
+
+footer {
+    text-align: center;
+}
