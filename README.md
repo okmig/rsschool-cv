@@ -1,1 +1,2 @@
-[Path to my cv](https://tonymig.github.io/rsschool-cv/cv)
+[Markdown](https://okmig.github.io/rsschool-cv/cv) |
+[HTML](https://okmig.github.io/rsschool-cv)
